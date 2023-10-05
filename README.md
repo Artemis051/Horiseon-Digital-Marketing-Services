@@ -16,7 +16,7 @@ CODE:
    5. comments were included in the CSS to improve clarity
    6. sections and classes were relabeled to 
 
-   You can access the repository here: git@github.com:Artemis051/Horiseon-Digital-Marketing-Services.git
+   You can access the repository here: https://github.com/Artemis051/Horiseon-Digital-Marketing-Services
 
 LICENSE:
 
